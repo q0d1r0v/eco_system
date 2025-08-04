@@ -15,7 +15,6 @@ import {
   ChevronLeft,
   ChevronRight,
   Phone,
-  MessageCircle,
   Send,
 } from 'lucide-react';
 
