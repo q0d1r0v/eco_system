@@ -389,11 +389,6 @@ function App() {
           style={{ width: `${((currentSlide + 1) / slides.length) * 100}%` }}
         />
       </div>
-
-      {/* Swipe Instructions for Mobile */}
-      <div className="fixed bottom-16 left-1/2 transform -translate-x-1/2 text-xs text-gray-500 text-center sm:hidden">
-        Keyboard yoki tugmalar orqali boshqaring
-      </div>
     </div>
   );
 }
